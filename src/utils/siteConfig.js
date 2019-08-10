@@ -1,7 +1,7 @@
 module.exports = {
     siteUrl: `https://mathollingsworth.com`, // Site domain. Do not include a trailing slash!
 
-    postsPerPage: 16, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
+    postsPerPage: 15, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
     siteTitleMeta: `Mat Hollingsworth`, // This allows an alternative site title for meta data for pages.
     siteDescriptionMeta: ``, // This allows an alternative site description for meta data for pages.
